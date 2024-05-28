@@ -1,6 +1,6 @@
 # instagram_app
 
-A new Flutter project.
+Mini curso sobre flutter baseada no layout do instagram para aprendizado
 
 ## Getting Started
 
